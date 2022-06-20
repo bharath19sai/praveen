@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   
   <groupId>tech.cyborgdeveloper</groupId>
-  <artifactId>Product Based</artifactId>
+  <artifactId>myapps</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
 
