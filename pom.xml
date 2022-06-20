@@ -20,6 +20,6 @@
   </dependencies>
 
   <build>
-    <finalName>myapps.war</finalName>
+    <finalName>myapps</finalName>
   </build>
 </project>
